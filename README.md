@@ -6,6 +6,8 @@ Fluent in **French, English, and Arabic 🌍**, I am an adaptable communicator, 
 
 I specialize in **TypeScript, React, NestJS, and PostgreSQL** but also explore new technologies to push the limits of innovation. My experience spans from **e-commerce platforms** to **DevOps and CI/CD pipelines**, ensuring robust and efficient deployments.
 
+🌍 Based in **France** | 🌐 Open to **Remote Work**
+
 ---
 
 ## 📫 Reach me out!
